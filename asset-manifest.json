@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wether-app-react/static/css/main.5b0e81fd.css",
+    "main.js": "/wether-app-react/static/js/main.a1a01e9c.js",
+    "static/media/img (3).jpg": "/wether-app-react/static/media/img (3).fb82ebb905864ee47543.jpg",
+    "index.html": "/wether-app-react/index.html",
+    "main.5b0e81fd.css.map": "/wether-app-react/static/css/main.5b0e81fd.css.map",
+    "main.a1a01e9c.js.map": "/wether-app-react/static/js/main.a1a01e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0e81fd.css",
+    "static/js/main.a1a01e9c.js"
+  ]
+}
